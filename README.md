@@ -112,7 +112,7 @@ Examples include:
 
 ### Hospital Patient Analytics Dashboard
 
-![Hospital Patient Analytics Dashboard](dashboard.png)
+![Hospital Patient Analytics Dashboard](C:\Users\Kamal\Desktop\Hospital PowerBi\Screenshoot\Hospital patient SS.png)
 
 > Replace `dashboard.png` with the actual name/path of your dashboard screenshot.
 
