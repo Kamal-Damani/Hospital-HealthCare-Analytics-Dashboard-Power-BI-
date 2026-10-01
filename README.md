@@ -112,9 +112,10 @@ Examples include:
 
 ### Hospital Patient Analytics Dashboard
 
+
 ![Hospital Patient Analytics Dashboard](Screenshoot)
 
-> Replace `dashboard.png` with the actual name/path of your dashboard screenshot.
+
 
 ---
 
