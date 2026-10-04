@@ -112,8 +112,8 @@ Examples include:
 
 ### Hospital Patient Analytics Dashboard
 
+<img width="523" height="290" alt="Screenshot 2026-10-01 121159" src="https://github.com/user-attachments/assets/cb5a725a-346f-4899-8ff3-ac7fa9f8ff79" />
 
-![Hospital Patient Analytics Dashboard](Screenshoot)
 
 
 
